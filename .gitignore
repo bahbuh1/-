@@ -1,0 +1,17 @@
+*.zip
+*.txt
+node_modules*
+*.npmignore
+env*
+test.mjs
+t.js
+tempDist
+tempPublic
+output
+domains.json
+*.nix
+test*
+test2*
+nodemodules*
+package-lock*
+*.temp

@@ -1,0 +1,2 @@
+npplanguage = "bash"
+run = "npm start"
